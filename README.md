@@ -1,5 +1,5 @@
 # My-10-Year-Journey-in-the-Crypto-World
-To achieve one thing: understand Bitcoin. By observing the design of Bitcoin, this single, localized individual, abstract the holistic equation of the Bitcoin paradigm to guide the crypto industry in realizing a variety of cryptos with Bitcoin-like value.
+To achieve one thing: understand Bitcoin. By observing the design of this single, localized individual, Bitcoin, abstract the holistic equation of the Bitcoin paradigm to guide the crypto industry in realizing a variety of cryptos capable of forming Bitcoin-like distributed, closed-loop economies.
 
 ## 10年 奋斗过程积累的感悟总结
 Bitcoin 范式的 ***关键主体对象是：Individual***， ***问题是：Individual的分布式信任安全问题***， ***解决方案是：个体自治从而分布式涌现***。
