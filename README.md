@@ -22,8 +22,8 @@ Bitcoin 范式的 ***关键主体对象是：Individual***， ***问题是：Ind
 | 类UTXO分布式数据结构表达的事物 | 确切的函数式编程    | BFT 算法                  | 外部 能量 感知 算法                            | 能量输入 |
 
 Bitcoin 之所以成功，而其他Crypto之所以不成功的原因是： 
-只有 Bitcoin 完成了 UTXO 数据结构的 ***BTC Individual*** 到 ***Quantifiable Energy*** 闭环能量守恒的分布式商业模式。
-且在设计的 一切 范式特别的遵守 ***Individual分布式原则*** 。
+只有 Bitcoin 完成了  ***BTC Individual*** 到 ***Quantifiable Energy*** 闭环能量守恒的分布式商业模式。
+且在设计的 一切 原则接近 100% 的遵守 ***Individual分布式原则*** 。
 
 ### ***Individual分布式设计原则***
 Individual分布式设计原则 是指 我们遵循自然规律的 ***个体自治涌现定律***。 
