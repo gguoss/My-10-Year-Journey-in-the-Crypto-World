@@ -113,7 +113,7 @@ Polkadot 是为了解决万链 互联问题的项目。
 人来了， 价值流通不正常， 这便成了 下一年我们要解决的问题。 
 
 
-### 商业闭环的 2022: OmniBTC的 OmniSwap。 
+### 商业闭环的 2022: OmniBTC的 OmniSwap/OmniLending/Dolaprotol。 
 从ComingChat 里吸引了人来了， 认识到了 Crypto  web3 圈 和web2圈不一样， web2圈是 以人或者 信息为中心做拓展。 而web3 crypto 圈 是以链上流动性为中心拓展。
 基于我此时的SB 认知， 我快速进入迭代出了 OmniSwap， OmniSwap当时的灵感来源于我对Polkadot 要万链互联的想象，所以自然要解决万链互联的流动性， 而 Bitcoin 是我一直没搞明白且最牛逼的crypto， 类似于 老子的 道德经。
 那我起这名字叫 OmniBTC 而不是单纯的叫 OmniSwap。 
