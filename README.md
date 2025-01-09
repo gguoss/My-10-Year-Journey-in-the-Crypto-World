@@ -146,16 +146,20 @@ Polkadot 是为了解决万链 互联问题的项目。
 
 ### 2024年， 致力于 解决 BEVM的所有问题。
 BEVM 4大叙事的迭代：
-第一次： BTC Layer2， 因为BTC 比 ETH 更需要 Layer2， 所以BEVM 想做个 BTC Layer2 的叙事， 且把从 2016年所有学到的应用和知识都集成于此系统中。 
+- 第一次： BTC Layer2， 因为BTC 比 ETH 更需要 Layer2， 所以BEVM 想做个 BTC Layer2 的叙事， 且把从 2016年所有学到的应用和知识都集成于此系统中。 
+
 
 发现了第一个问题： Merlin 等项目直接 fork ETH EVM 模式的 不需要 技术底层支撑的 Layer2 模式迭代。 
-第二次：所以我们推出了 Taproot Concensus 技术， 重点通过 Bitcoin SPV 状态通道 和 Taproot 结合解决 Bitcoin 去中心化托管的问题。 
+
+- 第二次：所以我们推出了 Taproot Concensus 技术， 重点通过 Bitcoin SPV 状态通道 和 Taproot 结合解决 Bitcoin 去中心化托管的问题。 
 
 发现Layer2  的叙事不成立的问题，因为 BTClayer2 是想把 BTC 用起来， 而BTC 在中心和交易所，矿池等地方一直用得很好。 这个需求不成立。
-第三次：SuperBitcoin，  Bitcoin 共识比 BTC重要， 所以我们要用起来的不是BTC，而是Bitcoin共识， 所以我们基于 共享BTC共识安全的叙事去做 SuperBitcoin。 
+
+- 第三次：SuperBitcoin，  Bitcoin 共识比 BTC重要， 所以我们要用起来的不是BTC，而是Bitcoin共识， 所以我们基于 共享BTC共识安全的叙事去做 SuperBitcoin。 
 
 发现就是做成了 SuperBitcoin，也不解决 Ehereum等 VM系统的 梦境割裂问题，即无法感知外部现实世界的问题，只能局限于在梦里做流动性的问题。 
-第四次： BitAgere， 在 SuperBitcoin 的基础上 着重做 机械共识的感知， 把 AI Agent 上的抽象能力 感知输入到 BEVM 的 BitAgere 的链上。从而把 Crypto 和 AI Agent 融合在一起。 
+
+- 第四次： BitAgere， 在 SuperBitcoin 的基础上 着重做 机械共识的感知， 把 AI Agent 上的抽象能力 感知输入到 BEVM 的 BitAgere 的链上。从而把 Crypto 和 AI Agent 融合在一起。 
 
 而这次，我们发现 Bitcoin 的最关键词是： Individual 的 涌现设计方法学。
 即 文章开头所描述的感悟， 基于文章最头部的总结， 指导我们 根据 Bitcoin 范式 函数来设计 更好的 机械世界（Bit世界）的产品。 
