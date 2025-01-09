@@ -74,7 +74,7 @@ Polkadot 是为了解决万链 互联问题的项目。
 所以 ChainX 设计为 Polkadot 的一个 跨链中枢或者叫 Bitcoin 跨链的 Hub。 
 在此年，做了几个牛逼 的SB 事情。
 其一： 实现了Bitcoin rust 版本的 SPV 轻客户端。
-其二： 抢在 Polkadot/Kusama 上线前的2年左右， 最早代码上分割出来了Substrate，且实现了 Bitcoin SPV 轻节点融合  Substrate 的框架，使得ChainX 号称 Substrate 第一链。 而Kusama 是Substrate 第二链。 而 Polikadot是 Kusama 第三链。 ChainX 才是Substrate的 龙头。
+其二： 抢在 Polkadot/Kusama 上线前的2年左右， 最早代码上分割出来了Substrate，且实现了 Bitcoin SPV 轻节点融合  Substrate 的框架，使得ChainX 号称 Substrate 第一链。 而Kusama 是Substrate 第二链。 而 Polikadot是 Substrate 第三链。 ChainX 才是Substrate的 龙头。
 其三： ChainX 上的 跨链BTC 数万个， ChainX 上被 lock 住的 BTC 有几十万个。
 其四： ChainX 支持了 DOT的SDOT 跨链， 导致 Polkadot的 CEO拿着 他们基金会 没有卖掉 的30%的 DOT要跨到 ChainX 上来挖矿 PCX。 我直接给拒绝了， 这 SB的Polkadot基金会还想着 抢散户的PCX， ChainX 是完全 Bitcoin的 公平挖矿模式，不允许 polkadot 官方团队的DOT 代币进入网络来 白撸PCX 。
 
