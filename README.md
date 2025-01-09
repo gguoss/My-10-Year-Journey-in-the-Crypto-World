@@ -89,7 +89,7 @@ Polkadot 是为了解决万链 互联问题的项目。
 而 以太坊 区块链 以及他这三个问题 都不成立的 统一本源问题是： 梦境割裂问题 导致的能量守恒的 商业不闭环问题。 
 而为了认知到这个本源问题， 我从 2020到现在且 彻底搞明白。 
 
-### 从虚到实的 2020： ComingChat： Individual 的 wechat。
+### 从虚向实的 2020： ComingChat： Individual 的 wechat。
 在 Polkadot 生态的发展中，感知到了 来自于 EOS 和 ETH 时候的 匮乏商业的失望， 且Polkadot 更执着于我完全不理解的 Slot auction， 我在Polkadot 孵化投资了一堆项目：如Acala/Astar/Zenlink 后。 开始去解决我一直存在的疑问。 
 为什么 Crypto 圈 不能像 wechat 的web2 圈一样 服务于现实？ 为什么 crypto 就不能 跳出炒空气的死循环？
 我SB的认为， 那是币圈没有真实的用户涌入。 所以我 基于 椭圆曲线的 双齿轮算法设计 的 隐私聊天通信软件 ComingChat 上线， 不仅 支持了椭圆曲线的 聊天，而且把 Crypto 里的 账户系统和 聊天系统统一起来了。  
