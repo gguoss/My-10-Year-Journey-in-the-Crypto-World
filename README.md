@@ -2,11 +2,11 @@
 To achieve one thing: understand Bitcoin. By observing the design of this single, localized individual, Bitcoin, abstract the holistic equation of the Bitcoin paradigm to guide the crypto industry in realizing a variety of cryptos capable of forming Bitcoin-like distributed, closed-loop economies.
 
 ## 10年 奋斗过程积累的感悟总结
-Bitcoin 范式的 ***关键主体对象是：Individual***， ***问题是：Individual的分布式信任安全问题***， ***解决方案是：个体自治从而分布式涌现***。
+Bitcoin 范式的 ***关键主体对象是：Individual***， ***问题是：Individual的分布式信任安全问题***， ***解决方案是：Individual自治从而分布式涌现***。
 
 
 ### Bitcoin范式 的方程组
--  交易函数： f (compute) = TX (Input (Individual), Output ( Individual))；  实现个体业务之间的分布式计算。
+-  交易函数： f (compute) = TX (Input (Individual), Output ( Individual))；  实现Individual业务之间的分布式计算。
 -  共识函数： f (concensus) = Concensus (hash, difficulty)； 解决 BFT容错的问题。
 -  共识感知量化函数： f (Bitcoin) = F (f (Compute), f (concensus))；  通过融合交易函数和共识函数从而 分布式涌现出 能量守恒的分布式商业。
 
@@ -91,7 +91,7 @@ Polkadot 是为了解决万链 互联问题的项目。
 
 ### 从虚到实的 2020： ComingChat： Individual 的 wechat。
 在 Polkadot 生态的发展中，感知到了 来自于 EOS 和 ETH 时候的 匮乏商业的失望， 且Polkadot 更执着于我完全不理解的 Slot auction， 我在Polkadot 孵化投资了一堆项目：如Acala/Astar/Zenlink 后。 开始去解决我一直存在的疑问。 
-为什么 Crypto 圈 不能像 wechat 的web2 圈一样 服务于现实？ 为什么 crypto 就不能 炒空气的死循环？
+为什么 Crypto 圈 不能像 wechat 的web2 圈一样 服务于现实？ 为什么 crypto 就不能 跳出炒空气的死循环？
 我SB的认为， 那是币圈没有真实的用户涌入。 所以我 基于 椭圆曲线的 双齿轮算法设计 的 隐私聊天通信软件 ComingChat 上线， 不仅 支持了椭圆曲线的 聊天，而且把 Crypto 里的 账户系统和 聊天系统统一起来了。  
 类似于 QQ 的设计， 一个 1到12位的 数字身份。 和QQ 的根本区别是， QQ的账户系统是一个中心化的 服务器统一管理着。
 而我的ComingChat 是一个基于 Individual 的椭圆算法 衍生的 Individual 的crypto账户和通信账户。 这个 ComingChat 软件通信程度 达到了 Individual。
