@@ -67,3 +67,26 @@ Individual分布式设计原则 是指 我们遵循自然规律的 ***个体自�
 - 事业的孩子， ChainPool， 因为 EOS的BM 鼓吹，我觉得可以做个 POS Staking 池是未来，所以我们准备做Staking 池挑战比特大陆，因为POW 老大 比特大陆当时最风光，比现在的Binance 还风光， 那我们做Chainpool那就是干 比特大陆， 这个可以。 然后一扑通进去 搞Chainpool 给EOS 做POS矿池， 然后一研究 EOS， 傻眼了， 这BM SB 是真拿着 Ethereum 的 blockchain的  Sharding 问题做 100万 TPS，还在自以为是的写 了一大堆 Sharding 代码，当时我一看， 这项目要完了， 因为 Sharding 代码逻辑狗屁不通， 然后 BM说要有缘人来起EOS， 我当时想： 你EOS 这是要黄了啊， 我的Chainpool也要黄， 那我去找个有缘人帮你来起 EOS， 我顺便帮你改改 EOS代码，删掉BM的逻辑不通 的sharding 代码，让代码跑起来。 而当我们 删掉 了EOS 的Sharding 的代码后， BM也接着把 sharding 的代码给删了。 而我们前后完成这个工作不到 2个月的时间， 这公链写代码是真挣钱， 说的是BM。 那代码都写了， 那就起个链吧， 这就和有缘人一起起了 EOSC 这个分叉EOS链，而当时链上的所有EOSC代码，是我1个多月时间删BM的代码删出来的， 这项目让我变现了点开发经费。给Chainpool 这个 Staking 池的故事有了闭环着落，不再去做 POS的 比特大陆了。
 - 我自家的孩子， 有一天我正在写代码时，我旁边一个产品合伙人，跑过来和我炫耀他娃怀孕3个月的B超照片， 我当时就想， 这让我很爽， 我晚上回去也搞一个， 还真搞成了， 同年 11月份，我闺女出生了。 此时人生真感知到了生活的意义， 幸福感知之门开始。 幸福不是傻逼，
 
+### 扩展 BTC 执念的开始 2019 ： ChainX 才是Substrate 第一链， Substrate 龙头链。
+和VB，Jae Kwon，BM，Gavin Wood 接触后， 发现 Gavin Wood 的代码能力最强，所以当时 觉得 VB/Jae Kwon/BM 是SB，所以不再去关注Ehereum，Cosmos，EOS。 而去 和 Gavin Wood 写 Polkadot的未来。 
+但我们SB的认为：
+Polkadot 是为了解决万链 互联问题的项目。
+所以 ChainX 设计为 Polkadot 的一个 跨链中枢或者叫 Bitcoin 跨链的 Hub。 
+在此年，做了几个牛逼 的SB 事情。
+其一： 实现了Bitcoin rust 版本的 SPV 轻客户端。
+其二： 抢在 Polkadot/Kusama 上线前的2年左右， 最早代码上分割出来了Substrate，且实现了 Bitcoin SPV 轻节点融合  Substrate 的框架，使得ChainX 号称 Substrate 第一链。 而Kusama 是Substrate 第二链。 而 Polikadot是 Kusama 第三链。 ChainX 才是Substrate的 龙头。
+其三： ChainX 上的 跨链BTC 数万个， ChainX 上被 lock 住的 BTC 有几十万个。
+其四： ChainX 支持了 DOT的SDOT 跨链， 导致 Polkadot的 CEO拿着 他们基金会 没有卖掉 的30%的 DOT要跨到 ChainX 上来挖矿 PCX。 我直接给拒绝了， 这 SB的Polkadot基金会还想着 抢散户的PCX， ChainX 是完全 Bitcoin的 公平挖矿模式，不允许 polkadot 官方团队的DOT 代币进入网络来 白撸PCX 。
+
+此年， 我们在玩 ChainX ，还是玩的很开心的， 很多乐呵。  但此时对行业很迷茫，因为认知到了 Gavin Wood 也是傻逼，  他所做的Polkadot 已经和我们之前想象的 万链互联概念有出入， 且不仅是出入的问题， 而是意识到了，好像币圈哪里都不对。 
+此时的感知，也许是整个Crypto 对的反应。 也许不要出现意外， Crypto 行业也许在此时就能迎来 新的认知变革， 更早的颠覆 以太坊带来的区块链三大问题（图灵完备VM， Sharding高TPS， 绿色能源POS）。  
+但意外就是在此时出现了， 后续的 Defi 这个 封闭梦境里的 自我能量 释放， 让这个 BlockChain 的叙事一直延续到现在。  
+当下的大家才意识到了 以太坊 的区块链 三大问题 不是问题，或者是伪命题，其中：
+- 绿色能源POS问题不符合能量守恒的商业模式。
+- Sharding 高TPS 带来了 Layer2 这些 的快速崛起和衰落。
+- 图灵完备的 Defi 虽然 带来了 去中心化的流动性体验， 但依然只能玩没有意义的 单机游戏。
+
+而 以太坊 区块链 以及他这三个问题 都不成立的 统一本源问题是： 梦境割裂问题 导致的能量守恒的 商业不闭环问题。 
+而为了认知到这个本源问题， 我从 2020到现在且 彻底搞明白。  接下来的几年我会分开讲讲 我做的一些例有意思的 Dapp 应用。 因为公链让我找不到答案， 所以去 做了Dapp应用，寻找 上面这个问题。 
+
+
