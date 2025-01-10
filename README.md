@@ -195,3 +195,30 @@ Individual 是指 类似UTXO 这样的 （数据+ 状态）在一起的个人主
 共识感知算法 是指 通过共识 去感知外界能量的算法；
 Individual，λ 演算， 共识算法， 共识感知算法 他们之间 是互相协同 演化从而涌现自适应的机械共识。
 
+## 总结
+十年加密之旅，悟道比特币
+
+核心：Individual。
+
+问题：Individual的分布式信任安全。
+
+方案：Individual自治，分布式涌现。
+
+比特币范式：交易函数：f(compute) = TX(Input(Individual), Output(Individual))
+
+共识函数：f(consensus) = Consensus(hash, difficulty)
+
+共识感知量化函数：f(Bitcoin) = F(f(Compute), f(consensus)) =  f(Consensus Mechanism, External Energy Input, Energy Conversion Mechanism) = Value Output
+
+Individual分布式设计原则：遵循个体自治涌现定律。
+
+比特币成功原因：闭环能量守恒的分布式商业模式 + Individual分布式设计原则。
+
+以太坊缺陷：外部能量输入忽略不计，无商业模式的封闭系统。
+
+Bitcoin的机械共识：hash算力无序熵减涌现。
+
+智能：非智能涌现智能。
+
+BEVM (λ)：Individual 模型 + λ 演算 + 共识算法 + 共识感知算法。
+
