@@ -211,3 +211,29 @@ Individuum significat structuram datorum similem UTXO, ubi (data + status) simul
 Algorithmus consensus significat algorithmum qui solvit problema tolerantiae culpae Byzantinae vel problema duplae impensae;
 Algorithmus perceptionis consensus significat algorithmum qui per consensum energiam externam percipit;
 Individuum, calculus λ, algorithmus consensus, algorithmus perceptionis consensus, haec inter se cooperantur et evolvuntur ad emergentiam consensus mechanici auto-adaptantis.
+
+## Summa: Decem Anni in Cryptographia,  Intellectus Bitcoin
+
+**Nucleus:** Individuum.
+
+**Problema:** Fiducia et securitas distributa Individui.
+
+**Solutio:**  Autonomia Individui, emergentia distributa.
+
+**Paradigma Bitcoin:**
+
+*   Functio transactionis: f(computatio) = TX(Input(Individuum), Output(Individuum))
+*   Functio consensus: f(consensus) = Consensus(hash, difficultas)
+*   Functio quantifica consensus conscia: f(Bitcoin) = F(f(Computatio), f(consensus)) = f(Mechanismus Consensus, Input Energiae Externae, Mechanismus Conversionis Energiae) = Valor Output
+
+**Principium Consilii Distributi Individui:** Legem autonomiae et emergentiae individui sequi.
+
+**Causae Successus Bitcoin:** Oeconomia clausa conservans energiam distributa + Principium consilii distributi Individui.
+
+**Vitia Ethereum:** Input energiae externae neglegibile, systema clausum sine exemplari oeconomico.
+
+**Consensus Mechanicus Bitcoin:**  Emergentia ex reductione entropiae computationis hash inordinatae.
+
+**Intelligentia:**  Emergentia intelligentiae ex non-intelligentia.
+
+**BEVM (λ):**  Modellum Individui + calculus λ + algorithmus consensus + algorithmus perceptionis consensus.
