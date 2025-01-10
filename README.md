@@ -8,7 +8,7 @@ Bitcoin 范式的 ***关键主体对象是：Individual***， ***问题是：Ind
 ### Bitcoin范式 的方程组
 -  交易函数： f (compute) = TX (Input (Individual), Output ( Individual))；  实现Individual业务之间的分布式计算。
 -  共识函数： f (concensus) = Concensus (hash, difficulty)； 解决 BFT容错的问题。
--  共识感知量化函数： f (Bitcoin) = F (f (Compute), f (concensus))；  通过融合交易函数和共识函数从而 分布式涌现出 能量守恒的分布式商业。
+-  共识感知量化函数： f (Bitcoin) = F (f (Compute), f (concensus))；  通过融合交易函数和共识函数从而 分布式涌现出 能量守恒的分布式商业。 该函数也可以写为： f(Consensus Mechanism, External Energy Input, Energy Conversion Mechanism) = Value Output。
 
 以上三个函数对 Bitcoin 的分析：
 - Bitcoin 的个体对象是： 基于UTXO做载体的Coin。 
