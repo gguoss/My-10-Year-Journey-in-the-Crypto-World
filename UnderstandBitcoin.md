@@ -11,7 +11,7 @@ The ***key subject of the Bitcoin paradigm is: Individual***, ***the problem is:
 
 -   Transaction function: f (compute) = TX (Input (Individual), Output (Individual)); realizing distributed computation between Individual businesses.
 -   Consensus function: f (consensus) = Consensus (hash, difficulty); solving the BFT fault tolerance problem.
--   Consensus-aware quantization function: f (Bitcoin) = F (f (Compute), f (consensus)); by fusing the transaction function and the consensus function to distributively emerge an energy-conserving distributed business.
+-   Consensus-aware quantization function: f (Bitcoin) = F (f (Compute), f (consensus)); by fusing the transaction function and the consensus function to distributively emerge an energy-conserving distributed business. This function can also be written as: f(Consensus Mechanism, External Energy Input, Energy Conversion Mechanism) = Value Output；
 
 The above three functions analyze Bitcoin as follows:
 
