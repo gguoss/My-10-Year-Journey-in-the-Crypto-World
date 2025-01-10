@@ -212,3 +212,30 @@ Individual refers to a personal sovereign data structure like UTXO where (data +
 Consensus algorithm refers to an algorithm that solves the BFT fault-tolerant consistency problem or the double-spending problem;
 Consensus perception algorithm refers to an algorithm that perceives external energy through consensus;
 Individual, λ calculus, consensus algorithm, and consensus perception algorithm are interoperable and evolve to emerge self-adaptive mechanical consensus.
+
+
+## Summary: A Decade's Journey in Crypto, Comprehending Bitcoin
+
+**Core:** Individual.
+
+**Problem:**  Distributed trust and security of the Individual.
+
+**Solution:** Individual autonomy, distributed emergence.
+
+**Bitcoin Paradigm:**
+
+*   Transaction function: f(compute) = TX(Input(Individual), Output(Individual))
+*   Consensus function: f(consensus) = Consensus(hash, difficulty)
+*   Consensus-aware quantization function: f(Bitcoin) = F(f(Compute), f(consensus)) = f(Consensus Mechanism, External Energy Input, Energy Conversion Mechanism) = Value Output
+
+**Individual Distributed Design Principle:**  Follow the law of individual autonomy and emergence.
+
+**Reasons for Bitcoin's Success:** Closed-loop, energy-conserving distributed business model + Individual distributed design principle.
+
+**Ethereum's shortcomings:** Negligible external energy input, a closed system without a business model.
+
+**Bitcoin's Mechanical Consensus:**  Emergence from the disorderly entropy reduction of hash computing power.
+
+**Intelligence:** Emergence of intelligence from non-intelligence.
+
+**BEVM (λ):** Individual model + λ calculus + consensus algorithm + consensus-aware algorithm.
