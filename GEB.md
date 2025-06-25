@@ -31,23 +31,16 @@ $$(\forall x)(\exists y) R(x,y)$$
 基于神谕机的思想，我们可以将比特币的结构解构为几个关键函数：
 
 1.  **图灵机函数 (交易计算)**
-    $$
-    f(\text{compute}) = \text{TX}(\text{Input(Individual)}, \text{Output(Individual)})
-    $$
+    **f(compute) = TX(Input(Individual), Output(Individual))**
     这代表了比特币系统中的“可计算”部分。一笔交易的有效性——签名是否正确、输入输出是否平衡——可以通过确定性的脚本逻辑进行验证。任何节点都可以像一台标准的图灵机一样，独立地、无歧义地完成这项计算。
 
 2.  **神谕机函数 (共识判定)**
-    $$
-    f(\text{consensus}) = \text{Consensus}(\text{hash}, \text{difficulty})
-    $$
+    **f(consensus) = Consensus(hash, difficulty)**
     这是比特币的“不可计算”核心。找到一个满足特定难度要求的区块哈希（Nonce），并没有直接的计算公式，只能通过海量、随机的哈希碰撞（工作量证明）来“发现”它。矿工的行为就像一个**“神谕”**，它无法被预测，但一旦它给出了答案（一个有效的区块），这个答案的正确性可以被所有人瞬间验证。
 
 3.  **超穷迭代判定函数 (系统演化)**
-    $$
-    f(\text{Transfinite} \Leftrightarrow \text{Bitcoin}) = F(f(\text{Compute}), f(\text{Consensus}))
-    $$ $$
-    = f(\text{Consensus Mechanism, External Energy Input, Energy Conversion}) = \text{Value Output}
-    $$
+    **f(Transfinite <=> Bitcoin) = F(f(Compute), f(Consensus))
+    = f(Consensus Mechanism, External Energy Input, Energy Conversion) = Value Output**
     这个函数描述了整个系统的宏观演化逻辑。它将确定性的交易计算与非确定性的共识判定结合起来，通过一个递归的规则（最长链原则），将外部输入的能量（矿工的算力）转化为有序的、可信的价值输出（不可篡改的账本）。
 
 ### 三、GEB 四元模型：复杂自适应系统的架构
